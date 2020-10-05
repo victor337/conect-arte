@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300079986604",
+    "firebase_url": "https://conect-arte.firebaseio.com",
+    "project_id": "conect-arte",
+    "storage_bucket": "conect-arte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300079986604:android:ad49545a92cc3af61d6c09",
+        "android_client_info": {
+          "package_name": "br.com.barbosa.conect_arte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300079986604-5c9qieo28jmka2b33p1pc7mrak0khiau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-OPWPxWbtSQTH2_GUI10AgJ6eEOqscg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300079986604-5c9qieo28jmka2b33p1pc7mrak0khiau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
